@@ -2,7 +2,7 @@
 
 The log of my #100DaysOfCode challenge. Started on [June 22, Friday, 2017].
 
-## Log I've been updating my progress on twitter daily(@WinnieGcodes). I'll start updating both here from day 23. 
+## Log I've been updating my progress on twitter daily(@WinnieGcodes). I've started updating this github log from day 23. 
 
 ### R1D23 
 
